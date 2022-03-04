@@ -1,0 +1,10 @@
+{
+  "base_username": "Selenium",
+  "users_counter": 12,
+  "name": "Selenium",
+  "surname": "Heroku",
+  "valid_user": "Selenium1",
+  "valid_password": "123456",
+  "invalid_user": "Helium1",
+  "invalid_password": "654321"
+}
